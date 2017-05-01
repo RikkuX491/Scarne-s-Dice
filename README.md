@@ -1,0 +1,2 @@
+# Scarne-s-Dice
+A game app for the Android platform where the player and computer opponent will take turns rolling a die. Each turn, the player can choose to roll the die ("Roll" button), hold their current turn score ("Hold" button), or restart the game ("Reset" button). However, if the player rolls a '1', their turn is lost and it will be the computer's turn. The same rules apply for the computer opponent.
